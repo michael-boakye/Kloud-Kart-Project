@@ -14,6 +14,7 @@ Project recommendations and decision records for Kloud Kart's data strategy, rep
 
 - [Data findings and risk assessment](Data%20Findings%20And%20Risk%20Assessment.md)
 - [Data strategy recommendation and roadmap](Data%20Strategy%20Recommendation.md)
+- [Recommendation beyond the brief](One%20Improvement%20beyond%20the%20brief.md)
 
 ## Adding project files
 
