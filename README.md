@@ -10,6 +10,10 @@ Project recommendations and decision records for Kloud Kart's data strategy, rep
 - [ADR-004: Control customer data exports](Kloud%20Kart%20decisions/decisions/ADR-004-control-customer-data-exports.md)
 - [ADR-005: Hire the Data Engineer first](Kloud%20Kart%20decisions/decisions/ADR-005-hire-data-engineer-first.md)
 
+## Project documents
+
+- [Data findings and risk assessment](Data%20Findings%20And%20Risk%20Assessment.md)
+
 ## Adding project files
 
 Project materials are being added incrementally, with a separate commit for each batch.
